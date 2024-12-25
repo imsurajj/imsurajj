@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">A passionate developer and Business minded person from India</h3>
+<h3 align="center">A passionate developer and Business minded person from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsurajj&label=Profile%20views&color=0e75b6&style=flat" alt="iamsurajj" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 Just connect and DM me on LinkedIn **: https://www.linkedin.com/in/askdigitalsuraj/**
 
-- ⚡ Fun fact **I'm workholic + Always think about business**
+- ⚡ Fun fact **I'm workaholic + Always think about business**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
