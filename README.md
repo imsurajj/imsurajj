@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsurajj&show_icons=true&locale=en" alt="iamsurajj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsurajj&" alt="iamsurajj" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imsurajj&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
