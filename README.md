@@ -27,5 +27,5 @@
 <br>
 
 ![imsurajj's Stats](https://github-readme-stats.vercel.app/api?username=imsurajj&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-<!-- ![imsurajj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imsurajj&theme=highcontrast&show_icons=true&hide_border=false&layout=compact) -->
-![imsurajj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsurajj&theme=highcontrast&hide_border=false)
+<!--![imsurajj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imsurajj&theme=highcontrast&show_icons=true&hide_border=false&layout=compact) -->
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imsurajj&theme=highcontrast)](https://git.io/streak-stats)
