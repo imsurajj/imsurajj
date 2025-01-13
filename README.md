@@ -1,7 +1,6 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4A90E2;">👋 Hi, I'm Suraj!</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #50E3C2;">A passionate developer and business-minded individual from India 🇮🇳</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsurajj&label=Profile%20views&color=0e75b6&style=flat" alt="iamsurajj" /> </p>
+<h1 align="left" style="font-family: 'Arial', sans-serif; color: #4A90E2;">👋 Hi, I'm Suraj!</h1>
+<p>A dedicated website developer student and entrepreneurial-minded individual from India 🇮🇳, currently in the learning phase of mastering web technologies, passionate about creating dynamic web applications that solve real-world problems and enhance user engagement through innovative design.</p>
 
 ## 🚀 About Me
 <div align="left">
