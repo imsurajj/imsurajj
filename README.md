@@ -31,7 +31,14 @@
 
 
 ## 🚀 Technology Stack
-<table align='center'> <tr> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/js-icon.svg' alt='JavaScript' width='65' height='65'/> <br>JavaScript </td> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/react-icon.svg' alt='React' width='65' height='65'/> <br>React </td> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/nginx-icon.svg' alt='Next.js' width='65' height='65'/> <br>Next.js </td> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/github-icon.svg' alt='GitHub' width='65' height='65'/> <br>GitHub </td> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/prettier-icon.svg' alt='Prettier' width='65' height='65'/> <br>Prettier </td> </tr> </table>
+<table align='center'> <tr>
+<tr class="text-center">
+<!--             <td class="p-4">
+                <img src='https://techstack-generator.vercel.app/js-icon.svg' alt='JavaScript' class='w-16 h-16'/> 
+                <br>JavaScript 
+            </td>  -->
+  
+<td align='center' width='96'> <img src='https://techstack-generator.vercel.app/js-icon.svg' alt='JavaScript' width='65' height='65'/> <br>JavaScript </td> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/react-icon.svg' alt='React' width='65' height='65'/> <br>React </td> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/nginx-icon.svg' alt='Next.js' width='65' height='65'/> <br>Next.js </td> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/github-icon.svg' alt='GitHub' width='65' height='65'/> <br>GitHub </td> <td align='center' width='96'> <img src='https://techstack-generator.vercel.app/prettier-icon.svg' alt='Prettier' width='65' height='65'/> <br>Prettier </td> </tr> </table>
 <be>
 
 ## 📈 GitHub Journey 
