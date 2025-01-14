@@ -3,7 +3,6 @@
 <p>A dedicated website developer student and entrepreneurial-minded individual from India 🇮🇳, currently in the learning phase of mastering web technologies, passionate about creating dynamic web applications that solve real-world problems and enhance user engagement through innovative design.</p>
 
 ## 🚀 About Me
-
 <div align="left">
   <ul>
     <li>🌱 Currently enrolled in a BCA program, exploring the fascinating world of AI technologies</li>
