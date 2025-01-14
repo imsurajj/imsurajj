@@ -82,6 +82,7 @@
 <div align='center'>
   <img width='49%' height='195px' src='https://github-readme-stats.vercel.app/api?username=imsurajj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117' />
   <img width='49%' height='195px' src='https://github-readme-streak-stats.herokuapp.com/?user=imsurajj&theme=radical&hide_border=true&background=0D1117' />
+  <!--<img width='49%' height='195px' src='https://github-readme-streak-stats.herokuapp.com/?user=imsurajj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117' />-->
 </div>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=imsurajj)](https://github.com/ryo-ma/github-profile-trophy) <br>-->
