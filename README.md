@@ -28,7 +28,7 @@ Less theory. More shipping.
 ## 🚧 Currently Building 
 
 <ul>
-  <li>🧠 AI-powered email & workflow automation platform — <a href="https://sendlume.app" target="_blank"><b>Sendlume (Join waitlist)</b></a></li>
+  <li>🧠 AI-powered email & workflow automation platform — <a href="https://sendlume.com" target="_blank"><b>Sendlume (Join waitlist)</b></a></li>
   <li>⚙️ Modular AI agents for business ops & growth</li>
   <li>📦 Internal tools to speed up SaaS MVP launches</li>
 </ul>
